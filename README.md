@@ -6,7 +6,12 @@
 
 
 # Git Hub Commands
-Git Clone AddRepositoryName
+1. git Clone AddRepositoryName
 
-git add .
+2. git add .
 
+3. git commit -m "Read me file updated"
+
+4. git push origin main
+
+5. 
