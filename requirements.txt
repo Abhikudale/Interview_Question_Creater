@@ -1,8 +1,7 @@
-dotenv
 langchain
 langchain-community
 langchain-core
-OpenAI
+openai
 pypdf
 tiktoken
 aiofiles
@@ -11,5 +10,5 @@ uvicorn
 jinja2
 python-multipart
 PyPDF2
-faiss_cpu
+faiss-cpu
 -e .
