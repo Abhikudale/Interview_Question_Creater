@@ -98,5 +98,5 @@ def llm_pipeline(filepath):
         chain_type="stuff"
     )
 
-    return question_list, answer_generation_chain
+    return answer_generation_chain, question_list
 
